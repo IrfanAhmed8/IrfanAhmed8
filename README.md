@@ -1,6 +1,6 @@
 # Hi 👋 I'm Irfan Ahmed Jafri
 
-🚀 Backend Developer | Distributed Systems Enthusiast
+🚀 Full Stack Developer | | Distributed Systems Enthusiast
 💡 Building scalable systems & real-time applications
 📍 Mumbai, India
 
