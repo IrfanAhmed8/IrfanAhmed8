@@ -114,3 +114,6 @@
 I enjoy optimizing systems almost as much as solving DSA problems ☕
 
 ---
+## 🐍 Contribution Snake  
+
+![Snake animation](https://github.com/IrfanAhmed8/IrfanAhmed8/blob/output/github-contribution-grid-snake.svg)
